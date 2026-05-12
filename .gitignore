@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Runtime directories — contents are not versioned
+downloads/
+output/
+logs/
